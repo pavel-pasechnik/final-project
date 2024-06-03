@@ -11,6 +11,7 @@ module.exports = {
     'plugin:import/errors',
     'plugin:import/warnings',
     'plugin:prettier/recommended',
+    'stylelint',
     'prettier',
   ],
   ignorePatterns: ['dist', '.eslintrc.cjs'],
