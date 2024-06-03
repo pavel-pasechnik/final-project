@@ -8,7 +8,6 @@ module.exports = {
     'plugin:react-hooks/recommended',
     'plugin:react-redux/recommended',
     'plugin:jsx-a11y/recommended',
-    'plugin:sonarjs/recommended',
     'plugin:prettier/recommended',
     'prettier',
   ],
@@ -21,7 +20,7 @@ module.exports = {
   settings: {
     react: { version: '18.2' },
   },
-  plugins: ['react-refresh', 'jsx-a11y', 'react-redux', 'sonarjs'],
+  plugins: ['react-refresh', 'jsx-a11y', 'react-redux'],
   rules: {
     'no-console': 0,
     'react/prop-types': 0,
