@@ -1,15 +1,17 @@
 {
-  "name": "react-homework-template",
+  "name": "task-pro",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://goitacademy.github.io/react-homework-template/",
+  "homepage": "https://pavel-pasechnik.github.io/Task-Pro/",
+  "type": "module",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
+    "modern-normalize": "^2.0.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^3.4.4",
     "web-vitals": "^2.1.3"
   },
   "scripts": {
@@ -36,5 +38,24 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.4",
+    "@babel/eslint-parser": "^7.24.6",
+    "@types/react": "^18.2.43",
+    "@types/react-dom": "^18.2.17",
+    "dotenv": "^16.4.5",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-jsx-a11y": "^6.8.0",
+    "eslint-plugin-prettier": "^5.1.3",
+    "eslint-plugin-react": "^7.34.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-redux": "^4.1.0",
+    "eslint-plugin-react-refresh": "^0.4.5",
+    "eslint-plugin-sonarjs": "^1.0.3",
+    "nodemon": "^3.1.2",
+    "postcss-styled-components": "^0.2.1",
+    "prettier": "^3.2.5"
   }
 }
