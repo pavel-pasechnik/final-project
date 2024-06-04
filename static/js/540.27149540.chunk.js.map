@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/540.27149540.chunk.js","mappings":"6IAAA,MAIA,EAJeA,KACNC,EAAAA,EAAAA,KAAA,MAAAC,SAAI,U","sources":["pages/Boards/Boards.jsx"],"sourcesContent":["const Boards = () => {\n  return <h1>Boards</h1>;\n};\n\nexport default Boards;\n"],"names":["Boards","_jsx","children"],"sourceRoot":""}
